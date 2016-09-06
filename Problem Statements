@@ -1,3 +1,0 @@
-File Name: segrigate.c
-Problem:
-Given an array. Write a function to segrigate even and odd numbers. Then the function should write all even numbers first and odd numbers later.
